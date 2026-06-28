@@ -14,7 +14,7 @@ Pour plus de détail -> voir le rapport PDF.
 
 ## Sources de données 
 
-<img width="1106" height="352" alt="image" src="https://github.com/user-attachments/assets/53fdacc2-bdcc-4ca1-be69-a925edf8ff2f" /> 
+<img width="915" height="300" alt="image" src="https://github.com/user-attachments/assets/befdb084-bd5a-4d95-91ad-e6ec58287a73" />
 
 1 - La base de cette entreteprise est une base transactionnelle (AdventureWorks2019) disponible sur le site de Microsoft (https://learn.microsoft.com/fr-fr/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms). 
 
@@ -32,7 +32,7 @@ Ces 2 fichiers ont été hebergés sur un Blob Storage sur le cloud Azure.
 
 ## Modèle Sémantique 
 
-<img width="1078" height="352" alt="image" src="https://github.com/user-attachments/assets/39988206-d202-4932-8c60-231a5292de1a" /> 
+<img width="896" height="286" alt="image" src="https://github.com/user-attachments/assets/22b11017-e8b9-4a33-958e-06e316e5c0fa" />
 
 ## ETL et Préparation des données 
 
@@ -124,16 +124,22 @@ Le dashboard est composé de 4 pages :
 * Comparaison avec l'année précédente 
 * Analyse par catégorie de produit 
 
+<img width="896" height="500" alt="image" src="https://github.com/user-attachments/assets/26bce9a6-cb02-4bbc-8489-fee80295fe2d" />
+
 ### Managers 
 
 * Analyse des performances par manager 
 * Suivi des objectifs 
 * Analyse hiérarchique des équipes 
 
+<img width="674" height="695" alt="image" src="https://github.com/user-attachments/assets/a5061980-7492-47dd-b1c6-13a52984b8a1" />
+
 ### Sales Person 
 
 * Analyse détaillée par commercial 
 * Drill-through depuis la vue manager 
+
+<img width="482" height="778" alt="image" src="https://github.com/user-attachments/assets/74f6c7a8-5beb-4201-83d9-dc9987725094" />
 
 ### Reviews 
   
@@ -141,26 +147,8 @@ Le dashboard est composé de 4 pages :
 * Répartition des sentiments 
 * Analyse des thématiques principales 
 
---- 
+<img width="1034" height="574" alt="image" src="https://github.com/user-attachments/assets/a7dd596c-e211-443c-a5cc-b40f9de4ce22" />
 
-## Captures d'écran 
-
-### Dashboard - Trend Analysis 
-
-<img width="1430" height="808" alt="image" src="https://github.com/user-attachments/assets/366ebf0c-604c-4dbd-977e-bf40e3ff1314" /> 
-
-### Dashboard - Managers 
-
-<img width="777" height="797" alt="image" src="https://github.com/user-attachments/assets/f9ced915-9efb-42e3-9185-c43f3c9867bf" /> 
-
-
-### Dashboard - Sales Person 
-
-<img width="523" height="850" alt="image" src="https://github.com/user-attachments/assets/537aae96-76f0-4f8d-9b0e-507b7cb378e9" /> 
-
-### Dashboard - Reviews 
-
-<img width="1297" height="726" alt="image" src="https://github.com/user-attachments/assets/bc13e967-50a1-4564-84d2-256721796492" /> 
 
 --- 
 
