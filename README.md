@@ -70,6 +70,8 @@ Le modèle comprend :
 * Commerciaux 
 * Managers 
 
+<img width="932" height="650" alt="image" src="https://github.com/user-attachments/assets/f06f9c48-85dd-435e-92e1-8032e22da7ee" />
+
 --- 
 
 ## Fonctionnalités mises en œuvre 
